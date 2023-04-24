@@ -1,3 +1,4 @@
+/*
 # Miles per gallon to kilometers per liter
 # DESCRIPTION:
 # Sometimes, I want to quickly be able to convert miles per imperial gallon (mpg) into kilometers per liter (kpl).
@@ -10,6 +11,7 @@
 # 
 # 1 Imperial Gallon = 4.54609188 litres
 # 1 Mile = 1.609344 kilometres
+*/
 
 function converter (mpg) {
   
